@@ -1,0 +1,3 @@
+telegramApiKey = ''
+openaiApiKey = ''
+paymentProcessorApiKey = ''
