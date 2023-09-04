@@ -1,6 +1,6 @@
 # TeleWhisper - Public Release
 
-Public version of the TeleWhisper project.
+Public version of the TeleWhisper project. Consider joining the [Telegram support group](t.me/telewhispersupport)
 
 This Telegram bot is able to, in private chat with it, transcribe audios, videos, music, etc. to text, and send it back to you.
 
