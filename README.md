@@ -1,4 +1,5 @@
 # TeleWhisper - Public Release
+## NOTE: This is an OLD release. A better and cleaner implementation using python-telegram-bot + telethon + Flask is available. Check it out here: [TeleWhisperEVO](https://github.com/FosanzDev/TeleWhisperEVO)
 
 Public version of the TeleWhisper project. Consider joining the [Telegram support group](t.me/telewhispersupport)
 
